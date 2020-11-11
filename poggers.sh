@@ -1,2 +1,2 @@
 #!/bin/bash
-bash /var/mobile/Media/general_storage/poggers/p.sh
+sudo /var/mobile/Media/general_storage/poggers/p.sh
